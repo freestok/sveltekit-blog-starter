@@ -1,0 +1,1 @@
+const t="My Awesome Blog",e="Built with the SvelteKit Static Blog Starter",o="- find and change this text in src/lib/config.js",s=10,i=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"},{title:"Contact",route:"/contact"}];export{o as a,e as b,i as n,s as p,t as s};
